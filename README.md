@@ -1,10 +1,13 @@
 # CepApp
 
-Aplicação desenvolvida na linguagem Python:
-Bibliotecas utilizadas:
+## Tecnologias :
 
-PySimpleGUI = Responsável pela interface da aplicação.
+- Python
+ - PySimpleGUI: Responsável pela interface da aplicação.
+ - Request: Utilizada para obter request e response da api consumida.
 
-Request: Utilizada para obter request e response da api consumida.
+## Ferramentas de desenvolvimento:
+- Visual Studio Code .
+## Descrição 
 Aplicação desenvolvida com Intuíto de consumir uma Api de Cep.
 Os usuário deve digitar apenas o cep e a aplicação retorna o endereço completo.
