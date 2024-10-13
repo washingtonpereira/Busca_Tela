@@ -9,5 +9,5 @@
 ## Ferramentas de desenvolvimento:
 - Visual Studio Code .
 ## Descrição 
-Aplicação desenvolvida com Intuíto de consumir uma Api de Cep.
-Os usuário deve digitar apenas o cep e a aplicação retorna o endereço completo.
+Aplicação desenvolvida com a finalidade de consumir uma Api de Ce,
+onde o usuário deve digitar apenas o cep sem pontos ou traços e a aplicação retorna o endereço completo.
