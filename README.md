@@ -9,5 +9,5 @@
 ## Ferramentas de desenvolvimento:
 - Visual Studio Code .
 ## Descrição 
-Aplicação desenvolvida com a finalidade de consumir uma Api de Ce,
+Aplicação desenvolvida com a finalidade de consumir uma Api de Cep,
 onde o usuário deve digitar apenas o cep sem pontos ou traços e a aplicação retorna o endereço completo.
